@@ -44,7 +44,7 @@ hobbies:
 ### 🌐 Web Development  
 <p align="left">
   <a href="https://skillicons.dev" target="_blank" rel="noopener noreferrer">
-    <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,react,mongodb" height="36" alt="web dev icons" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,php,nodejs,react,mongodb" height="36" alt="web dev icons" />
   </a>
 </p>
 
@@ -65,7 +65,7 @@ hobbies:
 ### 🖥️ OS and Terminal Knowledge  
 <p align="left">
   <a href="https://skillicons.dev" target="_blank" rel="noopener noreferrer">
-    <img src="https://skillicons.dev/icons?i=macOS,raspberrypi,linux,ubuntu,windows,bash" height="36" alt="os and terminal icons" />
+    <img src="https://skillicons.dev/icons?i=apple,raspberrypi,linux,ubuntu,windows,bash" height="36" alt="os and terminal icons" />
   </a>
 </p>
 
@@ -82,7 +82,7 @@ hobbies:
 ### 🎨 Design & Visualization  
 <p align="left">
   <a href="https://skillicons.dev" target="_blank" rel="noopener noreferrer">
-    <img src="https://skillicons.dev/icons?i=ai,photoshop,davinci,blender" height="36" alt="design tools icons" />
+    <img src="https://skillicons.dev/icons?i=ai,ae,photoshop,figma,pr,blender" height="36" alt="design tools icons" />
   </a>
 </p>
 
