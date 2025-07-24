@@ -41,37 +41,103 @@ hobbies:
 
 ## 🧰 Tech Stack
 
-<div align="center">
+<p align="center">
 
-<!-- First row -->
-<img src="https://img.shields.io/badge/-Python-05122A?style=for-the-badge&logo=python&logoColor=white&logoWidth=40" alt="Python" height="40" />
-<img src="https://img.shields.io/badge/-OpenCV-05122A?style=for-the-badge&logo=opencv&logoColor=white&logoWidth=40" alt="OpenCV" height="40" />
-<img src="https://img.shields.io/badge/-C++-05122A?style=for-the-badge&logo=c%2b%2b&logoColor=white&logoWidth=40" alt="C++" height="40" />
-<img src="https://img.shields.io/badge/-C-05122A?style=for-the-badge&logo=c&logoColor=white&logoWidth=40" alt="C" height="40" />
-<img src="https://img.shields.io/badge/-JavaScript-05122A?style=for-the-badge&logo=javascript&logoColor=white&logoWidth=40" alt="JavaScript" height="40" />
-<img src="https://img.shields.io/badge/-HTML5-05122A?style=for-the-badge&logo=html5&logoColor=white&logoWidth=40" alt="HTML5" height="40" />
-<img src="https://img.shields.io/badge/-CSS3-05122A?style=for-the-badge&logo=css3&logoColor=white&logoWidth=40" alt="CSS3" height="40" />
+<a href="https://www.python.org" target="_blank" rel="noreferrer">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="60" height="60" style="margin:10px"/>
+  <br>Python
+</a>
 
-<br/><br/>
+<a href="https://opencv.org" target="_blank" rel="noreferrer">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" alt="OpenCV" width="60" height="60" style="margin:10px"/>
+  <br>OpenCV
+</a>
 
-<!-- Second row -->
-<img src="https://img.shields.io/badge/-Arduino-05122A?style=for-the-badge&logo=arduino&logoColor=white&logoWidth=40" alt="Arduino" height="40" />
-<img src="https://img.shields.io/badge/-Raspberry_Pi-05122A?style=for-the-badge&logo=raspberry-pi&logoColor=white&logoWidth=40" alt="Raspberry Pi" height="40" />
-<img src="https://img.shields.io/badge/-React-05122A?style=for-the-badge&logo=react&logoColor=white&logoWidth=40" alt="React" height="40" />
-<img src="https://img.shields.io/badge/-Node.js-05122A?style=for-the-badge&logo=node.js&logoColor=white&logoWidth=40" alt="Node.js" height="40" />
-<img src="https://img.shields.io/badge/-MongoDB-05122A?style=for-the-badge&logo=mongodb&logoColor=white&logoWidth=40" alt="MongoDB" height="40" />
-<img src="https://img.shields.io/badge/-Docker-05122A?style=for-the-badge&logo=docker&logoColor=white&logoWidth=40" alt="Docker" height="40" />
-<img src="https://img.shields.io/badge/-Android_Studio-05122A?style=for-the-badge&logo=android&logoColor=white&logoWidth=40" alt="Android Studio" height="40" />
+<a href="https://isocpp.org" target="_blank" rel="noreferrer">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" width="60" height="60" style="margin:10px"/>
+  <br>C++
+</a>
 
-<br/><br/>
+<a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank" rel="noreferrer">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" width="60" height="60" style="margin:10px"/>
+  <br>C
+</a>
 
-<!-- Third row -->
-<img src="https://img.shields.io/badge/-Illustrator-05122A?style=for-the-badge&logo=adobeillustrator&logoColor=white&logoWidth=40" alt="Adobe Illustrator" height="40" />
-<img src="https://img.shields.io/badge/-Photoshop-05122A?style=for-the-badge&logo=adobephotoshop&logoColor=white&logoWidth=40" alt="Adobe Photoshop" height="40" />
-<img src="https://img.shields.io/badge/-DaVinci_Resolve-05122A?style=for-the-badge&logo=blackmagicdesign&logoColor=white&logoWidth=40" alt="DaVinci Resolve" height="40" />
-<img src="https://img.shields.io/badge/-Blender-05122A?style=for-the-badge&logo=blender&logoColor=white&logoWidth=40" alt="Blender" height="40" />
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="60" height="60" style="margin:10px"/>
+  <br>JavaScript
+</a>
 
-</div>
+<a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="60" height="60" style="margin:10px"/>
+  <br>HTML5
+</a>
+
+<a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noreferrer">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="60" height="60" style="margin:10px"/>
+  <br>CSS3
+</a>
+
+<br/>
+
+<a href="https://www.arduino.cc/" target="_blank" rel="noreferrer">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" alt="Arduino" width="60" height="60" style="margin:10px"/>
+  <br>Arduino
+</a>
+
+<a href="https://www.raspberrypi.com/" target="_blank" rel="noreferrer">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" alt="Raspberry Pi" width="60" height="60" style="margin:10px"/>
+  <br>Raspberry Pi
+</a>
+
+<a href="https://reactjs.org/" target="_blank" rel="noreferrer">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="60" height="60" style="margin:10px"/>
+  <br>React
+</a>
+
+<a href="https://nodejs.org" target="_blank" rel="noreferrer">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="60" height="60" style="margin:10px"/>
+  <br>Node.js
+</a>
+
+<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="60" height="60" style="margin:10px"/>
+  <br>MongoDB
+</a>
+
+<br/>
+
+<a href="https://www.docker.com/" target="_blank" rel="noreferrer">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="60" height="60" style="margin:10px"/>
+  <br>Docker
+</a>
+
+<a href="https://developer.android.com/studio" target="_blank" rel="noreferrer">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" alt="Android Studio" width="60" height="60" style="margin:10px"/>
+  <br>Android Studio
+</a>
+
+<a href="https://www.adobe.com/products/illustrator.html" target="_blank" rel="noreferrer">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" alt="Illustrator" width="60" height="60" style="margin:10px"/>
+  <br>Illustrator
+</a>
+
+<a href="https://www.adobe.com/products/photoshop.html" target="_blank" rel="noreferrer">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-line.svg" alt="Photoshop" width="60" height="60" style="margin:10px"/>
+  <br>Photoshop
+</a>
+
+<a href="https://www.blackmagicdesign.com/products/davinciresolve/" target="_blank" rel="noreferrer">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/davinciresolve/davinciresolve-original.svg" alt="DaVinci Resolve" width="60" height="60" style="margin:10px"/>
+  <br>DaVinci Resolve
+</a>
+
+<a href="https://www.blender.org/" target="_blank" rel="noreferrer">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" alt="Blender" width="60" height="60" style="margin:10px"/>
+  <br>Blender
+</a>
+
+</p>
 
 
 ---
