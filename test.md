@@ -12,7 +12,6 @@
   <img src="https://img.shields.io/badge/Robotics-Python-informational?style=for-the-badge&logo=python&color=blue"/>
   <img src="https://img.shields.io/badge/OpenCV-ComputerVision-critical?style=for-the-badge&logo=opencv&logoColor=white"/>
   <img src="https://img.shields.io/badge/LiDAR-WRO-success?style=for-the-badge&color=green"/>
-  <img src="https://komarev.com/ghpvc/?username=salmane-derdeb&label=Profile+Views&color=blue&style=flat-square" alt="profile views"/>
 </p>
 
 ---
