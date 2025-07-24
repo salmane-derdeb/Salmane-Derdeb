@@ -104,5 +104,6 @@ hobbies:
 ---
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" alt="snake animation" />
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg?theme=dark" alt="snake animation dark theme" />
 </p>
+
