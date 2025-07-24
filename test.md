@@ -61,24 +61,24 @@ hobbies:
     <td align="center" style="width: 50%;">
       <img
         src="https://github-readme-stats.vercel.app/api?username=salmane-derdeb&hide_title=false&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&locale=en"
-        width="420" height="300" style="object-fit: contain;"
+        width="430" height="300" style="object-fit: contain;"
       />
     </td>
     <td align="center" style="width: 50%;">
       <img
         src="https://github-readme-stats.vercel.app/api/top-langs?username=salmane-derdeb&locale=en&layout=compact&langs_count=5&theme=tokyonight"
-        width="420" height="300" style="object-fit: contain;"
+        width="430" height="300" style="object-fit: contain;"
       />
     </td>
   </tr>
 </table>
 
-<div align="center" style="max-width: 860px; width: 100%;">
+<div align="center" style="max-width: 860px; width: 100%; margin-top: 20px;">
   <a href="https://github.com/salmane-derdeb/github-readme-activity-graph" target="_blank">
     <img
       src="https://github-readme-activity-graph.vercel.app/graph?username=salmane-derdeb&theme=react-dark"
       alt="Activity Graph"
-      style="width: 860px; max-width: 100%; height: auto; object-fit: contain;"
+      style="width: 860px; max-width: 100%; height: 300px; object-fit: contain;"
     />
   </a>
 </div>
