@@ -58,7 +58,6 @@ hobbies:
 
 <div align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=salmane-derdeb&show_icons=true&theme=radical" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com?user=salmane-derdeb&theme=radical" />
 </div>
 
 <div align="center">
