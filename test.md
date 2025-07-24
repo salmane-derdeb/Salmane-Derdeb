@@ -39,105 +39,60 @@ hobbies:
 
 ---
 
-## 🧰 Tech Stack
+## 🚀 Skills & Tools  
 
-<p align="center">
-
-<a href="https://www.python.org" target="_blank" rel="noreferrer">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="60" height="60" style="margin:10px"/>
-  <br>Python
-</a>
-
-<a href="https://opencv.org" target="_blank" rel="noreferrer">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" alt="OpenCV" width="60" height="60" style="margin:10px"/>
-  <br>OpenCV
-</a>
-
-<a href="https://isocpp.org" target="_blank" rel="noreferrer">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" width="60" height="60" style="margin:10px"/>
-  <br>C++
-</a>
-
-<a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank" rel="noreferrer">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" width="60" height="60" style="margin:10px"/>
-  <br>C
-</a>
-
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="60" height="60" style="margin:10px"/>
-  <br>JavaScript
-</a>
-
-<a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="60" height="60" style="margin:10px"/>
-  <br>HTML5
-</a>
-
-<a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noreferrer">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="60" height="60" style="margin:10px"/>
-  <br>CSS3
-</a>
-
-<br/>
-
-<a href="https://www.arduino.cc/" target="_blank" rel="noreferrer">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" alt="Arduino" width="60" height="60" style="margin:10px"/>
-  <br>Arduino
-</a>
-
-<a href="https://www.raspberrypi.com/" target="_blank" rel="noreferrer">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" alt="Raspberry Pi" width="60" height="60" style="margin:10px"/>
-  <br>Raspberry Pi
-</a>
-
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="60" height="60" style="margin:10px"/>
-  <br>React
-</a>
-
-<a href="https://nodejs.org" target="_blank" rel="noreferrer">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="60" height="60" style="margin:10px"/>
-  <br>Node.js
-</a>
-
-<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="60" height="60" style="margin:10px"/>
-  <br>MongoDB
-</a>
-
-<br/>
-
-<a href="https://www.docker.com/" target="_blank" rel="noreferrer">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="60" height="60" style="margin:10px"/>
-  <br>Docker
-</a>
-
-<a href="https://developer.android.com/studio" target="_blank" rel="noreferrer">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" alt="Android Studio" width="60" height="60" style="margin:10px"/>
-  <br>Android Studio
-</a>
-
-<a href="https://www.adobe.com/products/illustrator.html" target="_blank" rel="noreferrer">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" alt="Illustrator" width="60" height="60" style="margin:10px"/>
-  <br>Illustrator
-</a>
-
-<a href="https://www.adobe.com/products/photoshop.html" target="_blank" rel="noreferrer">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-line.svg" alt="Photoshop" width="60" height="60" style="margin:10px"/>
-  <br>Photoshop
-</a>
-
-<a href="https://www.blackmagicdesign.com/products/davinciresolve/" target="_blank" rel="noreferrer">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/davinciresolve/davinciresolve-original.svg" alt="DaVinci Resolve" width="60" height="60" style="margin:10px"/>
-  <br>DaVinci Resolve
-</a>
-
-<a href="https://www.blender.org/" target="_blank" rel="noreferrer">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" alt="Blender" width="60" height="60" style="margin:10px"/>
-  <br>Blender
-</a>
-
+### 🌐 Web Development  
+<p align="left">
+  <a href="https://skillicons.dev" target="_blank" rel="noopener noreferrer">
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,nextjs,react,dynamodb" height="36" alt="web dev icons" />
+  </a>
 </p>
+
+### 🛠️ DevOps  
+<p align="left">
+  <a href="https://skillicons.dev" target="_blank" rel="noopener noreferrer">
+    <img src="https://skillicons.dev/icons?i=git,github,docker,aws,bash,npm" height="36" alt="devops icons" />
+  </a>
+</p>
+
+### 💻 Programming Languages  
+<p align="left">
+  <a href="https://skillicons.dev" target="_blank" rel="noopener noreferrer">
+    <img src="https://skillicons.dev/icons?i=py,c,cpp" height="36" alt="programming language icons" />
+  </a>
+</p>
+
+### 🖥️ OS and Terminal Knowledge  
+<p align="left">
+  <a href="https://skillicons.dev" target="_blank" rel="noopener noreferrer">
+    <img src="https://skillicons.dev/icons?i=raspberrypi,linux,ubuntu,windows,bash" height="36" alt="os and terminal icons" />
+  </a>
+</p>
+
+### 🤖 Robotics & Tools  
+<p align="left">
+  <a href="https://arduino.cc" target="_blank" rel="noopener noreferrer">
+    <img src="https://skillicons.dev/icons?i=arduino" height="36" alt="Arduino" />
+  </a>
+  <a href="https://www.raspberrypi.com/" target="_blank" rel="noopener noreferrer">
+    <img src="https://skillicons.dev/icons?i=raspberrypi" height="36" alt="Raspberry Pi" />
+  </a>
+</p>
+
+### 🎨 Design & Visualization  
+<p align="left">
+  <a href="https://skillicons.dev" target="_blank" rel="noopener noreferrer">
+    <img src="https://skillicons.dev/icons?i=ai,photoshop,davinci,blender" height="36" alt="design tools icons" />
+  </a>
+</p>
+
+### 📱 Mobile & IDEs  
+<p align="left">
+  <a href="https://developer.android.com/studio" target="_blank" rel="noopener noreferrer">
+    <img src="https://skillicons.dev/icons?i=androidstudio" height="36" alt="Android Studio" />
+  </a>
+</p>
+
 
 
 ---
