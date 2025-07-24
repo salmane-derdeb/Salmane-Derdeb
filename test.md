@@ -65,14 +65,6 @@ hobbies:
       <img src="https://github-readme-stats.vercel.app/api/top-langs?username=salmane-derdeb&locale=en&layout=compact&langs_count=5&theme=tokyonight" height="150" />
     </td>
   </tr>
-  <tr>
-    <td align="center">
-      <img src="https://streak-stats.demolab.com?user=salmane-derdeb&locale=en&theme=tokyonight&border_radius=5" height="150" />
-    </td>
-    <td align="center">
-      <img src="https://github-profile-trophy.vercel.app?username=salmane-derdeb&theme=tokyonight&column=3&margin-w=8&margin-h=8" height="150" />
-    </td>
-  </tr>
 </table>
 
 <div align="center">
