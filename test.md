@@ -26,7 +26,10 @@ from: Morocco
 hobbies:
   - 🚗 Building autonomous robots
   - 🎨 Designing cool dashboards
-  - 🧠 Learning about AI, embedded systems, and open source
+  - 🧠 Exploring AI, embedded systems, and open source
+  - 🛡️ Learning cybersecurity and ethical hacking
+  - 📸 Photography enthusiast
+  - ✂️ Video & photo editing
 ```
 
 - 🏆 Represented my country at **WRO Future Engineers 2024**; **FLL 2025**
