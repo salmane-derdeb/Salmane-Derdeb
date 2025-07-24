@@ -89,7 +89,7 @@ hobbies:
 ### 📱 Mobile & IDEs  
 <p align="left">
   <a href="https://developer.android.com/studio" target="_blank" rel="noopener noreferrer">
-    <img src="https://skillicons.dev/icons?i=androidstudio" height="36" alt="Android Studio" />
+    <img src="https://skillicons.dev/icons?i=androidstudio,xcode" height="36" alt="Android Studio" />
   </a>
 </p>
 
