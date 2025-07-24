@@ -59,10 +59,10 @@ hobbies:
 <table align="center">
   <tr>
     <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=salmane-derdeb&hide_title=false&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&locale=en" height="150" />
+      <img src="https://github-readme-stats.vercel.app/api?username=salmane-derdeb&hide_title=false&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&locale=en" height="200" />
     </td>
     <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=salmane-derdeb&locale=en&layout=compact&langs_count=5&theme=tokyonight" height="150" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=salmane-derdeb&locale=en&layout=compact&langs_count=5&theme=tokyonight" height="200" />
     </td>
   </tr>
 </table>
