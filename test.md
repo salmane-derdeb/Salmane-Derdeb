@@ -42,17 +42,37 @@ hobbies:
 ## 🧰 Tech Stack
 
 <div align="center">
-  
-![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)
-![OpenCV](https://img.shields.io/badge/-OpenCV-05122A?style=flat&logo=opencv)
-![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=c%2b%2b)
-![Arduino](https://img.shields.io/badge/-Arduino-05122A?style=flat&logo=arduino)
-![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-05122A?style=flat&logo=raspberry-pi)
-![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)
-![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)
-![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=mongodb)
+
+<!-- First row -->
+<img src="https://img.shields.io/badge/-Python-05122A?style=for-the-badge&logo=python&logoColor=white&logoWidth=40" alt="Python" height="40" />
+<img src="https://img.shields.io/badge/-OpenCV-05122A?style=for-the-badge&logo=opencv&logoColor=white&logoWidth=40" alt="OpenCV" height="40" />
+<img src="https://img.shields.io/badge/-C++-05122A?style=for-the-badge&logo=c%2b%2b&logoColor=white&logoWidth=40" alt="C++" height="40" />
+<img src="https://img.shields.io/badge/-C-05122A?style=for-the-badge&logo=c&logoColor=white&logoWidth=40" alt="C" height="40" />
+<img src="https://img.shields.io/badge/-JavaScript-05122A?style=for-the-badge&logo=javascript&logoColor=white&logoWidth=40" alt="JavaScript" height="40" />
+<img src="https://img.shields.io/badge/-HTML5-05122A?style=for-the-badge&logo=html5&logoColor=white&logoWidth=40" alt="HTML5" height="40" />
+<img src="https://img.shields.io/badge/-CSS3-05122A?style=for-the-badge&logo=css3&logoColor=white&logoWidth=40" alt="CSS3" height="40" />
+
+<br/><br/>
+
+<!-- Second row -->
+<img src="https://img.shields.io/badge/-Arduino-05122A?style=for-the-badge&logo=arduino&logoColor=white&logoWidth=40" alt="Arduino" height="40" />
+<img src="https://img.shields.io/badge/-Raspberry_Pi-05122A?style=for-the-badge&logo=raspberry-pi&logoColor=white&logoWidth=40" alt="Raspberry Pi" height="40" />
+<img src="https://img.shields.io/badge/-React-05122A?style=for-the-badge&logo=react&logoColor=white&logoWidth=40" alt="React" height="40" />
+<img src="https://img.shields.io/badge/-Node.js-05122A?style=for-the-badge&logo=node.js&logoColor=white&logoWidth=40" alt="Node.js" height="40" />
+<img src="https://img.shields.io/badge/-MongoDB-05122A?style=for-the-badge&logo=mongodb&logoColor=white&logoWidth=40" alt="MongoDB" height="40" />
+<img src="https://img.shields.io/badge/-Docker-05122A?style=for-the-badge&logo=docker&logoColor=white&logoWidth=40" alt="Docker" height="40" />
+<img src="https://img.shields.io/badge/-Android_Studio-05122A?style=for-the-badge&logo=android&logoColor=white&logoWidth=40" alt="Android Studio" height="40" />
+
+<br/><br/>
+
+<!-- Third row -->
+<img src="https://img.shields.io/badge/-Illustrator-05122A?style=for-the-badge&logo=adobeillustrator&logoColor=white&logoWidth=40" alt="Adobe Illustrator" height="40" />
+<img src="https://img.shields.io/badge/-Photoshop-05122A?style=for-the-badge&logo=adobephotoshop&logoColor=white&logoWidth=40" alt="Adobe Photoshop" height="40" />
+<img src="https://img.shields.io/badge/-DaVinci_Resolve-05122A?style=for-the-badge&logo=blackmagicdesign&logoColor=white&logoWidth=40" alt="DaVinci Resolve" height="40" />
+<img src="https://img.shields.io/badge/-Blender-05122A?style=for-the-badge&logo=blender&logoColor=white&logoWidth=40" alt="Blender" height="40" />
 
 </div>
+
 
 ---
 
