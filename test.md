@@ -60,14 +60,12 @@ hobbies:
   <tr>
     <td align="center" style="width: 50%;">
       <img
-        src="https://github-readme-stats.vercel.app/api?username=salmane-derdeb&hide_title=false&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&locale=en"
-       height="300" style="object-fit: contain;"
+        src="https://github-readme-stats.vercel.app/api?username=salmane-derdeb&hide_title=false&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&locale=en" width="430" height="300" style="object-fit: contain;"
       />
     </td>
     <td align="center" style="width: 50%;">
       <img
-        src="https://github-readme-stats.vercel.app/api/top-langs?username=salmane-derdeb&locale=en&layout=compact&langs_count=5&theme=tokyonight"
-        height="300" style="object-fit: contain;"
+        src="https://github-readme-stats.vercel.app/api/top-langs?username=salmane-derdeb&locale=en&layout=compact&langs_count=5&theme=tokyonight" width="430" height="300" style="object-fit: contain;"
       />
     </td>
   </tr>
