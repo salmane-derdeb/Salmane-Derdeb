@@ -69,7 +69,7 @@ hobbies:
 
 <div align="center">
   <a href="https://github.com/salmane-derdeb/github-readme-activity-graph" target="_blank">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=salmane-derdeb&theme=tokyonight" alt="Activity Graph" />
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=salmane-derdeb&theme=react-dark" alt="Activity Graph" />
   </a>
 </div>
 
