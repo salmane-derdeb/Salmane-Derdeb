@@ -58,14 +58,14 @@ hobbies:
 ### 💻 Programming Languages  
 <p align="left">
   <a href="https://skillicons.dev" target="_blank" rel="noopener noreferrer">
-    <img src="https://skillicons.dev/icons?i=py,c,cpp" height="36" alt="programming language icons" />
+    <img src="https://skillicons.dev/icons?i=py,c,cpp,java" height="36" alt="programming language icons" />
   </a>
 </p>
 
 ### 🖥️ OS and Terminal Knowledge  
 <p align="left">
   <a href="https://skillicons.dev" target="_blank" rel="noopener noreferrer">
-    <img src="https://skillicons.dev/icons?i=raspberrypi,linux,ubuntu,windows,bash" height="36" alt="os and terminal icons" />
+    <img src="https://skillicons.dev/icons?i=macOS,raspberrypi,linux,ubuntu,windows,bash" height="36" alt="os and terminal icons" />
   </a>
 </p>
 
