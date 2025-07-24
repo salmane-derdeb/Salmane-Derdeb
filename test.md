@@ -65,7 +65,7 @@ hobbies:
     </td>
     <td align="center" style="width: 50%;">
       <img
-        src="https://github-readme-stats.vercel.app/api/top-langs?username=salmane-derdeb&locale=en&layout=compact&langs_count=5&theme=tokyonight" width="400" height="300" style="object-fit: contain;"
+        src="https://github-readme-stats.vercel.app/api/top-langs?username=salmane-derdeb&locale=en&layout=compact&langs_count=5&theme=tokyonight" width="380" height="280" style="object-fit: contain;"
       />
     </td>
   </tr>
