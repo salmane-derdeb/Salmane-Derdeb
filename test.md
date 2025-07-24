@@ -32,7 +32,7 @@ hobbies:
 - 🏆 Represented my country at **WRO Future Engineers 2024**; **FLL 2025**
 - 📸 Built advanced **OpenCV**-powered color tracking bots
 - ⚙️ Expertise in **Raspberry Pi**, **ESP32**, **Arduino**, and **LiDAR**
-- 🎯 Now building: an **AI-powered resume & cover letter generator** (React + Node)
+- 🎯 Now learning: **Cybersecurity** and **ethical hacking**
 
 ---
 
