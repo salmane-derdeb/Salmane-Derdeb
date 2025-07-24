@@ -89,9 +89,9 @@ hobbies:
 
 | Project | Description | Tech |
 |--------|-------------|------|
-| [🧠 WRO-FE-2024-Mindcraft-International](https://github.com/YOUR_USERNAME/WRO-FE-2024-Mindcraft-International) | Autonomous robot using LiDAR, vision, and AI logic for WRO | `Python`, `OpenCV`, `RPi`, `C++`, `Lidar` |
-| [🌐 AI Resume Generator](https://github.com/YOUR_USERNAME/AI-Resume-Builder) | Full-stack AI app that builds tailored CVs and cover letters | `React`, `Node.js`, `OpenAI API` |
-| [🧭 Map Randomizer](https://github.com/YOUR_USERNAME/WRO-FE-Randomizer) | Visual simulation and score calculator for WRO Future Engineers | `JS`, `HTML`, `CSS` |
+| [🧠 WRO-FE-2024-Mindcraft-International](https://github.com/salmane-derdeb/WRO-FE-2024-Mindcraft-International) | Autonomous robot using LiDAR, vision, and AI logic for WRO | `Python`, `OpenCV`, `RPi`, `C++`, `Lidar` |
+| [🌐 FLL 2025](https://github.com/mindcraftlabs/FLL-25-SENIORS-INTERNATIONAL) | First Lego League Robotics Competition | `MicroPython`, `Pybricks`, `Git` |
+| [🧭 Dive into Discovery](https://github.com/mindcraftlabs/Dive-Into-Discovery) | Innovative water cleaning project | `Raspberry Pi`, `HTML`, `CSS`, `JS`, `Arduino` |
 
 ---
 
