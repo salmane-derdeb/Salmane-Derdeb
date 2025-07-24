@@ -58,12 +58,12 @@ hobbies:
 ## 📈 GitHub Stats
 
 <div align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com?user=YOUR_USERNAME&theme=radical" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=salmane-derdeb&show_icons=true&theme=radical" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com?user=salmane-derdeb&theme=radical" />
 </div>
 
 <div align="center">
-  <img width="90%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YOUR_USERNAME&theme=tokyonight" />
+  <img width="90%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=salmane-derdeb&theme=tokyonight" />
 </div>
 
 ---
