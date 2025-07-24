@@ -1,7 +1,7 @@
 <!-- Banner -->
 <h1 align="center">Hi, I'm Salmane 👋</h1>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=58A6FF&size=22&center=true&vCenter=true&width=600&lines=🚀+WRO+Future+Engineer+Finalist;👨‍💻+Full-Stack+Dev+%7C+Roboticist;🌍+From+Morocco%2C+Building+for+the+World;📚+Always+Learning+%26+Sharing" alt="Typing SVG">
+  <img src="https://readme-typing-svg.herokuapp.com?color=58A6FF&size=22&center=true&vCenter=true&width=600&lines=👨‍💻+Full-Stack+Dev+%7C+Roboticist;🌍+From+Morocco%2C+Building+for+the+World;📚+Always+Learning+%26+Sharing" alt="Typing SVG">
 </p>
 
 ---
