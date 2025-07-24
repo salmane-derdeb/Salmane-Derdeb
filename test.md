@@ -56,12 +56,29 @@ hobbies:
 
 ## 📈 GitHub Stats
 
-<div align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=salmane-derdeb&show_icons=true&theme=radical" />
-</div>
+<table align="center">
+  <tr>
+    <td align="center">
+      <img src="https://github-readme-stats.vercel.app/api?username=salmane-derdeb&hide_title=false&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&locale=en" height="150">
+    </td>
+    <td align="center">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=salmane-derdeb&locale=en&layout=compact&langs_count=5&theme=tokyonight" height="150">
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://streak-stats.demolab.com?user=salmane-derdeb&locale=en&theme=tokyonight&border_radius=5" height="150">
+    </td>
+    <td align="center">
+      <img src="https://github-profile-trophy.vercel.app?username=salmane-derden&theme=tokyonight&column=3&margin-w=8&margin-h=8" height="150">
+    </td>
+  </tr>
+</table>
 
 <div align="center">
-  <img width="90%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=salmane-derdeb&theme=tokyonight" />
+  <a href="https://github.com/salmane-derdeb/github-readme-activity-graph" target="_blank">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=salmane-derdeb&theme=tokyonight" alt="Activity Graph">
+  </a>
 </div>
 
 ---
