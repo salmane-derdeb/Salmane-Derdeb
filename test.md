@@ -39,59 +39,17 @@ hobbies:
 
 ---
 
-## 🚀 Skills & Tools  
+## 🚀 Skills & Tools
 
-### 🌐 Web Development  
-<p align="left">
-  <a href="https://skillicons.dev" target="_blank" rel="noopener noreferrer">
-    <img src="https://skillicons.dev/icons?i=html,css,js,php,nodejs,react,mongodb" height="36" alt="web dev icons" />
-  </a>
-</p>
-
-### 🛠️ DevOps  
-<p align="left">
-  <a href="https://skillicons.dev" target="_blank" rel="noopener noreferrer">
-    <img src="https://skillicons.dev/icons?i=git,github,docker,aws,bash,npm" height="36" alt="devops icons" />
-  </a>
-</p>
-
-### 💻 Programming Languages  
-<p align="left">
-  <a href="https://skillicons.dev" target="_blank" rel="noopener noreferrer">
-    <img src="https://skillicons.dev/icons?i=py,c,cpp,java" height="36" alt="programming language icons" />
-  </a>
-</p>
-
-### 🖥️ OS and Terminal Knowledge  
-<p align="left">
-  <a href="https://skillicons.dev" target="_blank" rel="noopener noreferrer">
-    <img src="https://skillicons.dev/icons?i=apple,raspberrypi,linux,ubuntu,windows,bash" height="36" alt="os and terminal icons" />
-  </a>
-</p>
-
-### 🤖 Robotics & Tools  
-<p align="left">
-  <a href="https://arduino.cc" target="_blank" rel="noopener noreferrer">
-    <img src="https://skillicons.dev/icons?i=arduino" height="36" alt="Arduino" />
-  </a>
-  <a href="https://www.raspberrypi.com/" target="_blank" rel="noopener noreferrer">
-    <img src="https://skillicons.dev/icons?i=raspberrypi" height="36" alt="Raspberry Pi" />
-  </a>
-</p>
-
-### 🎨 Design & Visualization  
-<p align="left">
-  <a href="https://skillicons.dev" target="_blank" rel="noopener noreferrer">
-    <img src="https://skillicons.dev/icons?i=ai,ae,photoshop,figma,pr,blender" height="36" alt="design tools icons" />
-  </a>
-</p>
-
-### 📱 Mobile & IDEs  
-<p align="left">
-  <a href="https://developer.android.com/studio" target="_blank" rel="noopener noreferrer">
-    <img src="https://skillicons.dev/icons?i=androidstudio" height="36" alt="Android Studio" />
-  </a>
-</p>
+| Category              | Icons                                                                                                          |
+|-----------------------|----------------------------------------------------------------------------------------------------------------|
+| 🌐 **Web Development** | <a href="https://skillicons.dev" target="_blank" rel="noopener noreferrer"><img src="https://skillicons.dev/icons?i=html,css,js,php,nodejs,react,mongodb" height="36" alt="web dev icons" /></a> |
+| 🛠️ **DevOps**          | <a href="https://skillicons.dev" target="_blank" rel="noopener noreferrer"><img src="https://skillicons.dev/icons?i=git,github,docker,aws,bash,npm" height="36" alt="devops icons" /></a>          |
+| 💻 **Programming Languages** | <a href="https://skillicons.dev" target="_blank" rel="noopener noreferrer"><img src="https://skillicons.dev/icons?i=py,c,cpp,java" height="36" alt="programming language icons" /></a>          |
+| 🖥️ **OS and Terminal Knowledge** | <a href="https://skillicons.dev" target="_blank" rel="noopener noreferrer"><img src="https://skillicons.dev/icons?i=apple,raspberrypi,linux,ubuntu,windows,bash" height="36" alt="os and terminal icons" /></a>          |
+| 🤖 **Robotics & Tools** | <a href="https://arduino.cc" target="_blank" rel="noopener noreferrer"><img src="https://skillicons.dev/icons?i=arduino" height="36" alt="Arduino" /></a> <a href="https://www.raspberrypi.com/" target="_blank" rel="noopener noreferrer"><img src="https://skillicons.dev/icons?i=raspberrypi" height="36" alt="Raspberry Pi" /></a> |
+| 🎨 **Design & Visualization** | <a href="https://skillicons.dev" target="_blank" rel="noopener noreferrer"><img src="https://skillicons.dev/icons?i=ai,ae,photoshop,figma,pr,blender" height="36" alt="design tools icons" /></a>        |
+| 📱 **Mobile & IDEs**   | <a href="https://developer.android.com/studio" target="_blank" rel="noopener noreferrer"><img src="https://skillicons.dev/icons?i=androidstudio" height="36" alt="Android Studio" /></a>             |
 
 
 
