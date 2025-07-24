@@ -44,7 +44,7 @@ hobbies:
 ### 🌐 Web Development  
 <p align="left">
   <a href="https://skillicons.dev" target="_blank" rel="noopener noreferrer">
-    <img src="https://skillicons.dev/icons?i=html,css,js,nextjs,react,mongodb" height="36" alt="web dev icons" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,react,mongodb" height="36" alt="web dev icons" />
   </a>
 </p>
 
