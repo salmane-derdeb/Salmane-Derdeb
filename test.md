@@ -41,83 +41,15 @@ hobbies:
 
 ## 🚀 Skills & Tools
 
-<table style="width: 100%; border-collapse: collapse;">
-  <tbody>
-    <tr>
-      <td style="width: 20%; vertical-align: top; font-weight: 700; font-size: 1.1em; padding: 8px;">
-        🌐 Web Development
-      </td>
-      <td style="width: 80%; padding: 8px;">
-        <a href="https://skillicons.dev" target="_blank" rel="noopener noreferrer" style="margin-right: 10px;">
-          <img src="https://skillicons.dev/icons?i=html,css,js,php,nodejs,react,mongodb" height="36" alt="web dev icons" />
-        </a>
-      </td>
-    </tr>
-    <tr>
-      <td style="width: 20%; vertical-align: top; font-weight: 700; font-size: 1.1em; padding: 8px;">
-        🛠️ DevOps
-      </td>
-      <td style="width: 80%; padding: 8px;">
-        <a href="https://skillicons.dev" target="_blank" rel="noopener noreferrer" style="margin-right: 10px;">
-          <img src="https://skillicons.dev/icons?i=git,github,docker,aws,bash,npm" height="36" alt="devops icons" />
-        </a>
-      </td>
-    </tr>
-    <tr>
-      <td style="width: 20%; vertical-align: top; font-weight: 700; font-size: 1.1em; padding: 8px;">
-        💻 Programming Languages
-      </td>
-      <td style="width: 80%; padding: 8px;">
-        <a href="https://skillicons.dev" target="_blank" rel="noopener noreferrer" style="margin-right: 10px;">
-          <img src="https://skillicons.dev/icons?i=py,c,cpp,java" height="36" alt="programming language icons" />
-        </a>
-      </td>
-    </tr>
-    <tr>
-      <td style="width: 20%; vertical-align: top; font-weight: 700; font-size: 1.1em; padding: 8px;">
-        🖥️ OS and Terminal Knowledge
-      </td>
-      <td style="width: 80%; padding: 8px;">
-        <a href="https://skillicons.dev" target="_blank" rel="noopener noreferrer" style="margin-right: 10px;">
-          <img src="https://skillicons.dev/icons?i=apple,raspberrypi,linux,ubuntu,windows,bash" height="36" alt="os and terminal icons" />
-        </a>
-      </td>
-    </tr>
-    <tr>
-      <td style="width: 20%; vertical-align: top; font-weight: 700; font-size: 1.1em; padding: 8px;">
-        🤖 Robotics & Tools
-      </td>
-      <td style="width: 80%; padding: 8px;">
-        <a href="https://arduino.cc" target="_blank" rel="noopener noreferrer" style="margin-right: 10px;">
-          <img src="https://skillicons.dev/icons?i=arduino" height="36" alt="Arduino" />
-        </a>
-        <a href="https://www.raspberrypi.com/" target="_blank" rel="noopener noreferrer" style="margin-right: 10px;">
-          <img src="https://skillicons.dev/icons?i=raspberrypi" height="36" alt="Raspberry Pi" />
-        </a>
-      </td>
-    </tr>
-    <tr>
-      <td style="width: 20%; vertical-align: top; font-weight: 700; font-size: 1.1em; padding: 8px;">
-        🎨 Design & Visualization
-      </td>
-      <td style="width: 80%; padding: 8px;">
-        <a href="https://skillicons.dev" target="_blank" rel="noopener noreferrer" style="margin-right: 10px;">
-          <img src="https://skillicons.dev/icons?i=ai,ae,photoshop,figma,pr,blender" height="36" alt="design tools icons" />
-        </a>
-      </td>
-    </tr>
-    <tr>
-      <td style="width: 20%; vertical-align: top; font-weight: 700; font-size: 1.1em; padding: 8px;">
-        📱 Mobile & IDEs
-      </td>
-      <td style="width: 80%; padding: 8px;">
-        <a href="https://developer.android.com/studio" target="_blank" rel="noopener noreferrer" style="margin-right: 10px;">
-          <img src="https://skillicons.dev/icons?i=androidstudio" height="36" alt="Android Studio" />
-        </a>
-      </td>
-    </tr>
-  </tbody>
-</table>
+| Category              | Icons                                                                                                          |
+|-----------------------|----------------------------------------------------------------------------------------------------------------|
+| 🌐 **Web Development** | <a href="https://skillicons.dev" target="_blank" rel="noopener noreferrer"><img src="https://skillicons.dev/icons?i=html,css,js,php,nodejs,react,mongodb" height="36" alt="web dev icons" /></a> |
+| 🛠️ **DevOps**          | <a href="https://skillicons.dev" target="_blank" rel="noopener noreferrer"><img src="https://skillicons.dev/icons?i=git,github,docker,aws,bash,npm" height="36" alt="devops icons" /></a>          |
+| 💻 **Programming Languages** | <a href="https://skillicons.dev" target="_blank" rel="noopener noreferrer"><img src="https://skillicons.dev/icons?i=py,c,cpp,java" height="36" alt="programming language icons" /></a>          |
+| 🖥️ **OS and Terminal Knowledge** | <a href="https://skillicons.dev" target="_blank" rel="noopener noreferrer"><img src="https://skillicons.dev/icons?i=apple,raspberrypi,linux,ubuntu,windows,bash" height="36" alt="os and terminal icons" /></a>          |
+| 🤖 **Robotics & Tools** | <a href="https://arduino.cc" target="_blank" rel="noopener noreferrer"><img src="https://skillicons.dev/icons?i=arduino" height="36" alt="Arduino" /></a> <a href="https://www.raspberrypi.com/" target="_blank" rel="noopener noreferrer"><img src="https://skillicons.dev/icons?i=raspberrypi" height="36" alt="Raspberry Pi" /></a> |
+| 🎨 **Design & Visualization** | <a href="https://skillicons.dev" target="_blank" rel="noopener noreferrer"><img src="https://skillicons.dev/icons?i=ai,ae,photoshop,figma,pr,blender" height="36" alt="design tools icons" /></a>        |
+| 📱 **Mobile & IDEs**   | <a href="https://developer.android.com/studio" target="_blank" rel="noopener noreferrer"><img src="https://skillicons.dev/icons?i=androidstudio" height="36" alt="Android Studio" /></a>             |
 
 
 
